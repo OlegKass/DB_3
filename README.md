@@ -4,10 +4,6 @@ run the following commands:
 $ docker-compose up --build
 
 
-### Demo screenshot
-
-![Screenshot](/images/demo_image.png)
-
 ### Tech
 
 * [Python 3.8]
